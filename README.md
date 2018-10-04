@@ -1,7 +1,8 @@
 # Music-Player-Shuffler
 Shuffles music using the vlc library and custom made shuffler
 
-This is a program I made earlier this year. It takes songs from the music folder and can loop and/or shuffle them
+This is a program I made earlier this year. (The completion dates of each of the programs are listed in the info.txt)
+It takes songs from the music folder and can loop and/or shuffle them
 The shuffle will never play a song twice in a row, even between loops.
 
 The code used for testing and troubleshooting is put in a multiline comment and noted to be such code.
