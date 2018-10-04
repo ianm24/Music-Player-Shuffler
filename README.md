@@ -10,7 +10,7 @@ In the test folder there are two programs.
 1) In the 'Music Test' folder there is an example that plays music from its respective 'music' folder.
 2) In the 'Shuffle' folder, there is a more easy to understand version of my custom made shuffler code using numbers in a list
 
-The example music in the 'music' folders include Never Gonna Give You Up by Rick Astley and 4 songs by my friend from his album Dunham
+The example music in the 'music' folders include Never Gonna Give You Up by Rick Astley and 4 songs by my friend Dylan McDonagh from his album Dunham
 
 All of the code was written by me in Python 2.7 using the VLC Python library.
 
